@@ -1,0 +1,14 @@
+{
+    "name": "node-scraper",
+    "url": "http://github.com/claudemuller/",
+    "version": "0.1",
+    "description": "A web scraper implemented in nodejs",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/claudemuller/node-scraper/"
+    },
+    "dependencies": {
+        "require": "~2.4",
+        "cheerio": "~0.19"
+    }
+}
